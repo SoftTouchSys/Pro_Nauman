@@ -24,7 +24,7 @@ class Landing extends Component {
               <h2 style={{margin: '15px'}}>Web Developer</h2>
               <p style={{marginTop: '-20px'}}>HTML/CSS | Bootstrap | PHP | Javascript | jQuery | Canvas/Animation | React JS</p>
 
-        <div className="social-links" style={{marginTop: '-30px',padding:"1%"}}>
+        <div className="social-links" style={{marginTop: '-10px',padding:"1%"}}>
 
           {/* LinkedIn */}
           <a href="https://www.facebook.com/nauman.asif.507/" rel="noopener noreferrer" target="_blank">
