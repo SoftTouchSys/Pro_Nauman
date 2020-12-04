@@ -12,7 +12,7 @@ class About extends Component {
           <div className="columns is-centered">
             <div className="column">
               <h2 className="title is-spaced is-size-1-desktop is-size-2-tablet is-size-3-mobile" style={{fontFamily:"eurostilebold",marginTop:"50px"}}>Designer &amp; Front-end Developer</h2>
-              <h4 className="subtitle is-size-4-desktop" style={{fontFamily:"Europa",marginTop:"10px"}}>I design and code beautifully simple things, and I love what I do.</h4><img class="avatar" src="https://mattfarley.ca/img/mf-avatar.svg"/>
+              <h4 className="subtitle is-size-4-desktop" style={{fontFamily:"Europa",marginTop:"50px"}}>I design and code beautifully simple things, and I love what I do.</h4><img class="avatar" src="https://mattfarley.ca/img/mf-avatar.svg"/>
              </div>
           </div>
         </div>
